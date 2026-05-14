@@ -1,0 +1,83 @@
+{
+  "name": "丁玮 - 建筑设计作品集",
+  "nameEn": "Ding Wei - Architecture Portfolio",
+  "title": "建筑师 | Architect",
+  "bio": "一名专注于城市建筑与空间设计的建筑师。",
+  "bioEn": "An architect focused on urban architecture and spatial design.",
+  "description": "我相信伟大的建筑能够讲述故事，并将人们与环境相连接。",
+  "descriptionEn": "I believe great architecture tells stories and connects people with their environment.",
+  "about": {
+    "title": "关于我",
+    "titleEn": "About",
+    "content": "丁玮，建筑学硕士，国家一级注册建筑师。现就职于成都市建筑设计研究院，专注于城市更新、公共建筑与居住建筑的设计与研究。",
+    "contentEn": "Ding Wei, Master of Architecture, National First-Class Registered Architect. Currently working at Chengdu Architectural Design and Research Institute, focusing on urban renewal, public architecture, and residential building design and research.",
+    "philosophy": "我的设计理念是将功能性与美学完美结合，关注建筑与城市文脉的对话，追求可持续发展的设计原则。",
+    "philosophyEn": "My design philosophy is to perfectly integrate functionality and aesthetics, focusing on the dialogue between architecture and urban context, pursuing sustainable design principles."
+  },
+  "contact": {
+    "title": "联系我",
+    "titleEn": "Contact",
+    "subtitle": "有合作意向或想了解更多信息？欢迎与我联系",
+    "subtitleEn": "Interested in collaboration or want to know more? Feel free to get in touch",
+    "email": "dingwei@example.com",
+    "phone": "+86 138 0000 0000"
+  },
+  "projects": [
+    {
+      "id": "residential",
+      "title": "居住区设计",
+      "type": "居住建筑",
+      "typeEn": "Residential Architecture",
+      "location": "怡丰花园",
+      "locationEn": "Yifeng Garden",
+      "coordinates": [30.6251, 104.0668],
+      "year": "2023",
+      "description": "现代简约风格的居住区设计，注重人与自然的和谐共处",
+      "descriptionEn": "Modern and simple style residential design, emphasizing harmony between people and nature",
+      "details": "本项目位于成都市怡丰花园片区，设计理念强调社区共享空间与私密居住的平衡。整体规划采用组团式布局，通过绿化走廊串联各个功能区块。建筑立面采用暖色调材料，营造温馨的居住氛围。景观设计融入成都地域特色，设置了多处休闲广场和儿童活动空间，旨在打造一个生态宜居的现代化社区。",
+      "detailsEn": "This project is located in the Yifeng Garden area of Chengdu. The design concept emphasizes the balance between community shared spaces and private living. The overall planning adopts a cluster layout, connecting various functional blocks through green corridors."
+    },
+    {
+      "id": "urban",
+      "title": "城市设计",
+      "type": "城市设计",
+      "typeEn": "Urban Design",
+      "location": "高攀路",
+      "locationEn": "Gaopan Road",
+      "coordinates": [30.6312, 104.0885],
+      "year": "2022",
+      "description": "城市更新与公共空间活化设计",
+      "descriptionEn": "Urban renewal and public space activation design",
+      "details": "高攀路城市设计项目聚焦于街道空间的活化与社区活力的提升。设计策略包括：优化步行系统，扩宽人行道并设置休憩设施；增加街道绿化密度，种植本土植物品种；重新规划沿街商业界面，打造连续的活力界面；引入艺术装置和文化元素，提升街道的识别性和文化内涵。",
+      "detailsEn": "The Gaopan Road urban design project focuses on street space activation and community vitality enhancement."
+    },
+    {
+      "id": "renewal",
+      "title": "城市更新",
+      "type": "城市更新",
+      "typeEn": "Urban Renewal",
+      "location": "玉林路",
+      "locationEn": "Yulin Road",
+      "coordinates": [30.6457, 104.0563],
+      "year": "2021",
+      "description": "历史街区的保护性更新与文化传承",
+      "descriptionEn": "Protective renewal and cultural inheritance of historic districts",
+      "details": "玉林路城市更新项目在保留历史肌理的同时，注入新的功能与活力。设计遵循\"保护为主、活化利用\"的原则，对原有建筑进行修缮加固，保留具有历史价值的建筑元素。同时引入文创产业、特色餐饮等新业态，让老街区焕发新生。",
+      "detailsEn": "The Yulin Road urban renewal project preserves the historical texture while injecting new functions and vitality."
+    },
+    {
+      "id": "library",
+      "title": "大学图书馆",
+      "type": "文化建筑",
+      "typeEn": "Cultural Architecture",
+      "location": "四川大学望江校区",
+      "locationEn": "Sichuan University Wangjiang Campus",
+      "coordinates": [30.6334, 104.0892],
+      "year": "2024",
+      "description": "现代校园文化地标建筑",
+      "descriptionEn": "Modern campus cultural landmark building",
+      "details": "四川大学望江校区图书馆设计融合传统与现代，创造知识共享的空间。建筑设计取意于\"竹简\"与\"书卷\"，立面采用参数化设计的遮阳百叶，形成有韵律的光影效果。内部空间采用开放式布局，设置多种学习区域满足不同需求。",
+      "detailsEn": "The Sichuan University Wangjiang Campus Library design integrates tradition and modernity, creating a space for knowledge sharing."
+    }
+  ]
+}
