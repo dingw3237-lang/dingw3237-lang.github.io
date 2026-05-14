@@ -4,10 +4,11 @@ import tsconfigPaths from "vite-tsconfig-paths";
 import { traeBadgePlugin } from 'vite-plugin-trae-solo-badge';
 
 export default defineConfig({
-  base: '/',  // 仓库名为 username.github.io，所以用根路径
+  base: '',  // 使用相对路径，避免GitHub Pages的MIME类型问题
   build: {
     sourcemap: 'hidden',
     outDir: 'dist',
+    emptyOutDir: true,
   },
   plugins: [
     react({
